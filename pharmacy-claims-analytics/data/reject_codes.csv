@@ -1,0 +1,8 @@
+reject_code,description
+R01,Refill too soon
+R02,Patient not eligible / coverage ended
+R03,Drug not covered by plan
+R04,Prior authorization required
+R05,Invalid patient ID or date of birth
+R06,Quantity or days supply exceeds limit
+R07,Invalid prescriber ID
